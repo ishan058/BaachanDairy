@@ -106,6 +106,9 @@
                                 <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/"><i class="bi bi-instagram"></i></a>
                             </div>
                         </div>
+                        <div class="col-lg-3 col-md-6">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.3012131115615!2d85.33501407523111!3d27.73885397616442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19465ab97b55%3A0xb6182286af1f11a1!2sBachan%20Dudh%20Dairy%20Pasal!5e0!3m2!1sen!2snp!4v1686804587414!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
                         <div class="col-12 text-center text-body">
                             <a class="text-body" href="">Terms & Conditions</a>
                             <span class="mx-1">|</span>
