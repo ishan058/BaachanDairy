@@ -12,4 +12,3 @@
     <p>Email : {{$details['email']}}</p>
     <p>Message : {{$details['msg']}}</p>
 </body>
-</html>
